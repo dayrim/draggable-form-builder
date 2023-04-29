@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dayrim/draggable-form-builder/static/css/main.8d92131e.chunk.css",
-    "main.js": "/dayrim/draggable-form-builder/static/js/main.866372b6.chunk.js",
-    "main.js.map": "/dayrim/draggable-form-builder/static/js/main.866372b6.chunk.js.map",
-    "runtime-main.js": "/dayrim/draggable-form-builder/static/js/runtime-main.4674c36b.js",
-    "runtime-main.js.map": "/dayrim/draggable-form-builder/static/js/runtime-main.4674c36b.js.map",
-    "static/js/2.98375880.chunk.js": "/dayrim/draggable-form-builder/static/js/2.98375880.chunk.js",
-    "static/js/2.98375880.chunk.js.map": "/dayrim/draggable-form-builder/static/js/2.98375880.chunk.js.map",
-    "index.html": "/dayrim/draggable-form-builder/index.html",
-    "precache-manifest.5496ff5bb8cd964366ae0eae0b0d49e4.js": "/dayrim/draggable-form-builder/precache-manifest.5496ff5bb8cd964366ae0eae0b0d49e4.js",
-    "service-worker.js": "/dayrim/draggable-form-builder/service-worker.js",
-    "static/css/main.8d92131e.chunk.css.map": "/dayrim/draggable-form-builder/static/css/main.8d92131e.chunk.css.map",
-    "static/js/2.98375880.chunk.js.LICENSE.txt": "/dayrim/draggable-form-builder/static/js/2.98375880.chunk.js.LICENSE.txt"
+    "main.css": "/draggable-form-builder/static/css/main.8d92131e.chunk.css",
+    "main.js": "/draggable-form-builder/static/js/main.198af6b1.chunk.js",
+    "main.js.map": "/draggable-form-builder/static/js/main.198af6b1.chunk.js.map",
+    "runtime-main.js": "/draggable-form-builder/static/js/runtime-main.782718a7.js",
+    "runtime-main.js.map": "/draggable-form-builder/static/js/runtime-main.782718a7.js.map",
+    "static/js/2.151f1f21.chunk.js": "/draggable-form-builder/static/js/2.151f1f21.chunk.js",
+    "static/js/2.151f1f21.chunk.js.map": "/draggable-form-builder/static/js/2.151f1f21.chunk.js.map",
+    "index.html": "/draggable-form-builder/index.html",
+    "precache-manifest.5bab19e813757df27e6bebdfee15147d.js": "/draggable-form-builder/precache-manifest.5bab19e813757df27e6bebdfee15147d.js",
+    "service-worker.js": "/draggable-form-builder/service-worker.js",
+    "static/css/main.8d92131e.chunk.css.map": "/draggable-form-builder/static/css/main.8d92131e.chunk.css.map",
+    "static/js/2.151f1f21.chunk.js.LICENSE.txt": "/draggable-form-builder/static/js/2.151f1f21.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4674c36b.js",
-    "static/js/2.98375880.chunk.js",
+    "static/js/runtime-main.782718a7.js",
+    "static/js/2.151f1f21.chunk.js",
     "static/css/main.8d92131e.chunk.css",
-    "static/js/main.866372b6.chunk.js"
+    "static/js/main.198af6b1.chunk.js"
   ]
 }
